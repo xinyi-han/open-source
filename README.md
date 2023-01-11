@@ -5,11 +5,14 @@
   * [Calculus](#calculus)
   * [Probability](#probability)
   * [Discrete Mathematics](#discrete-mathematics)
-* [2. Machine Learning](#machine-learning)
+* [2. Core Computer Science](#core-computer-science)
+  * [Database System](#database-system)
+  * [Operating System](#operating-system)
+* [3. Machine Learning](#machine-learning)
   * [Computer Vision](#computer-vision)
   * [Natural Language Processing](#natural-language-processing)
-* [3. Artificial Intelligence](#artificial-intelligence)
-* [4. Software Development](#software-development)
+* [4. Artificial Intelligence](#artificial-intelligence)
+* [5. Software Development](#software-development)
 
 ### Mathematics
 
@@ -38,6 +41,19 @@
 | ---------- | ---- | ---------- | ------ | ----- |
 | CMU | Spring 2021 | Po-Shen Loh | [21-228: Discrete Mathematics](https://www.math.cmu.edu/~ploh/2021-228.shtml) | [Playlist](https://www.youtube.com/playlist?list=PLgTkKBA6LRqYuuQ-LboerRblBoD_q_eUM) |
 
+### Core Computer Science
+
+#### Database System
+
+| Offered by | Year | Instructor | Course | Video |
+| ---------- | ---- | ---------- | ------ | ----- |
+| CMU | Fall 2022 | Andy Pavlo | [15-445/645: Intro to Database Systems](https://15445.courses.cs.cmu.edu/fall2022/) | [Playlist](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) |
+
+#### Operating System
+
+| Offered by | Year | Instructor | Course | Video |
+| ---------- | ---- | ---------- | ------ | ----- |
+| MIT | Fall 2020 | Frans Kaashoek<br>Robert Morris | [6.S081 Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) | [Links](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) |
 
 ### Machine Learning
 
@@ -51,6 +67,7 @@
 | Offered by | Year | Instructor | Course | Video |
 | ---------- | ---- | ---------- | ------ | ----- |
 | Stanford | Winter 2016 | Fei-Fei Li<br>Andrej Karpathy<br>Justin Johnson | [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2016/) | [Playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) |
+| Stanford | Spring 2017 | Fei-Fei Li<br>Justin Johnson<br>Serena Yeung | [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2017/) | [Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
 | Columbia | 2021 | Shree Nayar | [First Principles of Computer Vision](https://fpcv.cs.columbia.edu/) | [Channel](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists) |
 
 #### Natural Language Processing
